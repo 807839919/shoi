@@ -10,6 +10,7 @@ Prevailing works tackle the Human-object Interaction (HOI) task from a detection
 
 We present construct three SHOI datasets. 
 For more comprehensive construction details and dataset statistic, please refer to the paper.
+
 <img src="figure/dataset.jpg" alt="Your Image" width="600" height="300">
 
 
