@@ -18,7 +18,7 @@ In this study, we introduce a novel approach for the automated creation of Spati
 ### Enhancement of Existing and Widely Used HOI Datasets
 Furthermore, we contribute to the advancement of the field by enhancing existing and widely adopted Human-Object-Interaction (HOI) datasets.  Through careful curation and augmentation techniques, we improve the quality and diversity of the dataset, addressing potential limitations present in conventional datasets.  
 
-<img src="figure/step2.jpg" alt="Your Image" width="800" height="300">
+<img src="figure/step2.jpg" alt="Your Image" width="800" height="400">
 
 For more examples of image datasets, please refer to the Datasets folder.
 
